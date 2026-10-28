@@ -2,7 +2,7 @@
 
 WindLens is a pilot dashboard for a UK energy utility's day-ahead trading desk. For every purchase decision made in **January 2026** it shows the national wind forecast the desk actually had at decision time, compares it with what the wind actually generated, and turns the measured error into a procurement buffer.
 
-**Live app:** _add Vercel URL here after deploying_
+**Live app:** https://frontend-mu-puce-57.vercel.app
 
 ## What it answers
 
